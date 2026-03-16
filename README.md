@@ -5,6 +5,8 @@ The application allows users to create, manage, search, edit, and delete events 
 
 Events are stored in **localStorage**, so they remain saved even after refreshing the page.
 
+Website: https://smart-event-dashboard-apurvamarya.vercel.app/
+
 ---
 
 ## Features
